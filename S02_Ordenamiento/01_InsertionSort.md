@@ -34,9 +34,7 @@ El **ordenamiento por inserción** es un algoritmo de tipo **interno** y **direc
 | Peor caso (orden inverso) | O(n²) |
 | Espacio | O(1) (in-place) |
 
-![ ](../assets/insertionSort_M1.png)
-![ ](../assets/insertionSort_M2.png)
-![ ](../assets/insertionSort_M1_M2.png)
+![ ](../assets/On2.png)
 
 ---
 
